@@ -19,3 +19,17 @@ These match the GitHub Pages URL structure:
 - `index.html` — full single-page landing page, support, terms, and privacy
 - `styles.css` — page styling
 - `assets/` — screenshots and branding
+
+
+## v9 Update
+
+- Restored the professional screenshot layout.
+- Added a polished brand showcase section with a large DriveWindow logo.
+- Kept Privacy Policy and Terms & Support as same-page anchors.
+
+
+## v10 Update
+
+- Reworked the logo area into a simple professional panel.
+- Removed the phrase "recognizable brand."
+- Added the Stops Map screenshot to the screenshot section.
