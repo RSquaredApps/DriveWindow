@@ -1,24 +1,21 @@
-# DriveWindow
+# DriveWindow: Traffic & Weather Tracker
 
-Promotional, legal, privacy, terms, and support page for DriveWindow Route Tracker.
+Updated single-page marketing website for DriveWindow.
 
-This GitHub Pages site highlights how DriveWindow helps users plan better drives, avoid bad traffic, track current ETAs, view traffic trends, check route weather radar, find stops along the route, and use Live Activities and Apple Watch-ready route experiences. CarPlay is described only as a planned future feature and is not presented as currently available.
+## Link structure
+
+The privacy and support/terms sections are on the same page and use these anchors:
+
+- `#privacy-policy`
+- `#terms-and-conditions--support`
+
+These match the GitHub Pages URL structure:
+
+- `https://rsquaredapps.github.io/DriveWindow/#privacy-policy`
+- `https://rsquaredapps.github.io/DriveWindow/#terms-and-conditions--support`
 
 ## Files
 
-- `index.html`, main GitHub Pages page
-- `styles.css`, responsive DriveWindow theme
-- `assets/DriveWindowIcon.png`, app icon used in the hero
-- `assets/Logo.png`, DriveWindow logo used in navigation and previews
-
-## Legal URLs
-
-When hosted from the `RSquaredApps/DriveWindow` repository, use:
-
-- Legal Home: `https://rsquaredapps.github.io/DriveWindow/`
-- Privacy Policy: `https://rsquaredapps.github.io/DriveWindow/#privacy-policy`
-- Terms and Conditions / Support: `https://rsquaredapps.github.io/DriveWindow/#terms-and-conditions--support`
-
-## Support
-
-RSquared Apps Support: rsquaredsupport@gmail.com
+- `index.html` — full single-page landing page, support, terms, and privacy
+- `styles.css` — page styling
+- `assets/` — screenshots and branding
