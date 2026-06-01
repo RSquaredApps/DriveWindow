@@ -33,3 +33,10 @@ These match the GitHub Pages URL structure:
 - Reworked the logo area into a simple professional panel.
 - Removed the phrase "recognizable brand."
 - Added the Stops Map screenshot to the screenshot section.
+
+
+## v11 Update
+
+- Reworked the header navigation for mobile with a clean dropdown menu.
+- Desktop navigation remains unchanged.
+- Same-page Privacy Policy and Terms & Support links are preserved.
