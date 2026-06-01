@@ -35,8 +35,8 @@ These match the GitHub Pages URL structure:
 - Added the Stops Map screenshot to the screenshot section.
 
 
-## v11 Update
+## v12 Update
 
-- Reworked the header navigation for mobile with a clean dropdown menu.
-- Desktop navigation remains unchanged.
-- Same-page Privacy Policy and Terms & Support links are preserved.
+- Reworked mobile navigation so only one compact Menu is visible on mobile.
+- Desktop navigation remains unchanged for larger screens.
+- Privacy Policy and Terms & Support anchors remain unchanged.
